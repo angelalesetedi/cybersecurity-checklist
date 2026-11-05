@@ -24,3 +24,8 @@
 - Check the sender before opening attachments.
 - Be alert to unexpected emails.
 - Report suspicious messages.
+
+## 6. Physical Security
+- Keep devices in secure locations.
+- Do not leave computers unattended in public places.
+- Protect devices from unauthorised physical access.
